@@ -1,0 +1,11 @@
+asgiref==3.2.7
+certifi==2020.4.5.1
+cffi==1.14.0
+Django==3.0.3
+django-bootstrap3==12.1.0
+django-braces==1.14.0
+misaka==2.1.1
+pycparser==2.20
+pytz==2020.1
+six==1.15.0
+sqlparse==0.3.1
